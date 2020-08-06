@@ -1,4 +1,4 @@
-### Hi there, I'm Adi Nugraha Putra A.K.A ShisuiDev[website] 👋
+### Hi there, I'm Adi Nugraha Putra A.K.A ShisuiDev 👋
 
 ## I'm a Student at Lampung University and Kotlin Android Developer!
 - 🔭 I’m currently Play at Dribbble[website]!
@@ -8,8 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ?view_as=subscriber"/>][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

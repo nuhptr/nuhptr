@@ -3,8 +3,8 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 
 ### Stats:
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=AdiNugraha&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiNugraha&layout=compact" height=180 />
 </p>
 
 

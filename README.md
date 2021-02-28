@@ -3,7 +3,7 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 
 ### Stats:
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nuhptr&theme=tokyonight)" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=nuhptr&show_icon=true&theme=tokyonight)" height=180 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhptr&layout=compact" height=180 />
 </p>
 

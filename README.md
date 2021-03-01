@@ -9,9 +9,8 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 
 ### Other Repository
 <p>
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=flutter-clean-architecture-sample&show_owner=true)" height=160/>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=flutter-clean-architecture-sample&show_owner=true)" height=134/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=Github-Tutorial&show_owner=true)" height=134/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=Github-Tutorial&show_owner=true)" height=160/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=Code-Laravel-Journey&show_owner=true)" height=137/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=Code-Laravel-Journey&show_owner=true)" height=134/>
 </p>

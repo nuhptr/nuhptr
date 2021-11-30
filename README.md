@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Adi Nugraha Putra!
 Currently I am open to any opportunity especially in IT as a Flutter Mobile Developer and Backend Developer
 
-### Connect with me:
+### Connect with me :
 
 [<img align="left" alt="nuhptr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Adinuhptr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -10,7 +10,7 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools :
 
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.eudeka.id/wp-content/uploads/2021/04/flutter-logo-sharing-1.png" />
@@ -19,7 +19,6 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Figma" width="26px" src="https://lh3.googleusercontent.com/proxy/yALQMFjhDY3FmSZ2zIA9V19wyFTpXU3Ic7ovucJpCATYVrxZOdmmugMY8lOT6LfRv-dtdRxL2qn6Op97pJUwtyy_50RrWMA24lPhOug5cMf25T7No8xGPvo" />
 <img align="left" alt="ekspressJS" width="26px" src="https://p7.hiclipart.com/preview/1006/374/456/web-development-node-js-socket-io-javascript-network-socket-modernization-thumbnail.jpg" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
 <img align="left" alt="nextjs" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -27,6 +26,17 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 <br />
 <br />
 
+### Top Languages :
+
+<a href="https://github.com/nuhptr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhptr&theme=light&hide_langs_below=1" />
+</a>
+
+### Stats : 
+
+<a href="https://github.com/nuhptr">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhptr&show_icons=true&theme=light&line_height=27" />
+</a>
 
 [twitter]: https://twitter.com/AdiNugrahaPutr2
 [youtube]: https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ

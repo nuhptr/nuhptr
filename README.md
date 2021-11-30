@@ -19,7 +19,7 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Figma" width="26px" src="https://lh3.googleusercontent.com/proxy/yALQMFjhDY3FmSZ2zIA9V19wyFTpXU3Ic7ovucJpCATYVrxZOdmmugMY8lOT6LfRv-dtdRxL2qn6Op97pJUwtyy_50RrWMA24lPhOug5cMf25T7No8xGPvo" />
 <img align="left" alt="ekspressJS" width="26px" src="https://p7.hiclipart.com/preview/1006/374/456/web-development-node-js-socket-io-javascript-network-socket-modernization-thumbnail.jpg" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
 <img align="left" alt="nextjs" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />

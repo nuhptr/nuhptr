@@ -3,7 +3,6 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="nuhptr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Adinuhptr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nuhptr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -13,20 +12,21 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 
 ### Languages and Tools:
 
-[<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.eudeka.id/wp-content/uploads/2021/04/flutter-logo-sharing-1.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Figma" width="26px" src="https://lh3.googleusercontent.com/proxy/yALQMFjhDY3FmSZ2zIA9V19wyFTpXU3Ic7ovucJpCATYVrxZOdmmugMY8lOT6LfRv-dtdRxL2qn6Op97pJUwtyy_50RrWMA24lPhOug5cMf25T7No8xGPvo" />]
-[<img align="left" alt="ekspressJS" width="26px" src="https://p7.hiclipart.com/preview/1006/374/456/web-development-node-js-socket-io-javascript-network-socket-modernization-thumbnail.jpg" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="nextjs" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://www.eudeka.id/wp-content/uploads/2021/04/flutter-logo-sharing-1.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Figma" width="26px" src="https://lh3.googleusercontent.com/proxy/yALQMFjhDY3FmSZ2zIA9V19wyFTpXU3Ic7ovucJpCATYVrxZOdmmugMY8lOT6LfRv-dtdRxL2qn6Op97pJUwtyy_50RrWMA24lPhOug5cMf25T7No8xGPvo" />
+<img align="left" alt="ekspressJS" width="26px" src="https://p7.hiclipart.com/preview/1006/374/456/web-development-node-js-socket-io-javascript-network-socket-modernization-thumbnail.jpg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="nextjs" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<br/>
-<br/>
+<br />
+<br />
+
 
 [twitter]: https://twitter.com/AdiNugrahaPutr2
 [youtube]: https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ

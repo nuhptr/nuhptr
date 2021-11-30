@@ -32,10 +32,15 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuhptr&theme=light&hide_langs_below=1" />
 </a>
 
-### Stats : 
-
+<!-- ### Stats : 
 <a href="https://github.com/nuhptr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhptr&show_icons=true&theme=light&line_height=27" />
+</a> -->
+
+### Other Repository :
+
+<a href="https://github.com/nuhptr/PHP-Language-Learn">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=PHP-Language-Learn&theme=light" />
 </a>
 
 [twitter]: https://twitter.com/AdiNugrahaPutr2

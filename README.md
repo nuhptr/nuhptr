@@ -17,7 +17,7 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Figma" width="26px" src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/76/71/0e/76710e01-df8c-8676-6714-0defc487bdae/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif" />
 <img align="left" alt="ekspressJS" width="26px" src="https://p7.hiclipart.com/preview/1006/374/456/web-development-node-js-socket-io-javascript-network-socket-modernization-thumbnail.jpg" />
 <img align="left" alt="nextjs" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />

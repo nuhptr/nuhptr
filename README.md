@@ -37,7 +37,11 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhptr&show_icons=true&theme=light&line_height=27" />
 </a> -->
 
+<!-- 
 ### Other Repository :
+<a href="https://github.com/nuhptr/.....">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=...&theme=dark" />
+</a> -->
 
 
 

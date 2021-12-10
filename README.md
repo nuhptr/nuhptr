@@ -39,10 +39,6 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 
 ### Other Repository :
 
-<a href="https://github.com/nuhptr/Typescript-Learn-Code-BWA">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=Typescript-Learn-Code-BWA&theme=dark" />
-</a>
-
 
 
 [twitter]: https://twitter.com/AdiNugrahaPutr2

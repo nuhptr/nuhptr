@@ -12,7 +12,6 @@ Currently I am open to any opportunity especially in IT as a Flutter Mobile Deve
 
 ### Languages and Tools :
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.eudeka.id/wp-content/uploads/2021/04/flutter-logo-sharing-1.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

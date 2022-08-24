@@ -15,7 +15,7 @@ Currently I am open to any opportunity especially in IT as a UI UX Designer and 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="expressJS" width="26px" src="https://user-images.githubusercontent.com/50306963/186475143-6a6d00d2-3469-41f2-babe-1dceb1b96127.png" />
+<img align="left" alt="expressJS" width="26px" src="https://user-images.githubusercontent.com/50306963/186475641-0c2cee02-fbf6-4b29-97cb-979890b1b982.png" />
 <img align="left" alt="nextjs" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />

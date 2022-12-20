@@ -27,7 +27,7 @@ Currently I am open to any opportunity especially in IT as a UI UX Designer and 
 ### Top Languages :
 
 <a href="https://github.com/nuhptr">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhptr&layout=compact)](https://github.com/nuhptr/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
 </a>
 
 <!-- ### Stats : 

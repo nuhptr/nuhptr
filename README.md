@@ -1,11 +1,11 @@
 # Hi there 👋 , I'm Adi Nugraha Putra!
 
-🔭 I’m currently at open to work as UI UX Designer / Web Developer.
-🌱 I’m currently learning Laravel, ReactJS, and ExpressJS.
-👯 I’m looking to collaborate on any open source projects related to Laravel and JavaScript (ReactJS preferrable).
-🤔 I’m looking for help with building a new portfolio UI UX for behance.
-💬 Ask me about anything related to Laravel and JavaScript (ReactJS preferrable).
-😄 Pronouns: he/him.
+🔭 I’m currently at open to work as UI UX Designer / Web Developer. <br />
+🌱 I’m currently learning Laravel, ReactJS, and ExpressJS. <br />
+👯 I’m looking to collaborate on any open source projects related to Laravel and JavaScript (ReactJS preferrable). <br />
+🤔 I’m looking for help with building a new portfolio UI UX for behance. <br />
+💬 Ask me about anything related to Laravel and JavaScript (ReactJS preferrable). <br />
+😄 Pronouns: he/him. <br />
 
 ### Connect with me :
 

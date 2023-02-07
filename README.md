@@ -6,7 +6,7 @@
 <li>🤔 I’m looking for help with building a new portfolio UI UX for behance. <li />
 <li>💬 Ask me about anything related to Laravel and JavaScript (ReactJS preferrable). <li />
 <li>😄 Pronouns: he/him. <li />
- <ul />
+<ul />
 
 ### Connect with me :
 

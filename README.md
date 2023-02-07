@@ -5,7 +5,7 @@
 <li>👯 I’m looking to collaborate on any open source projects related to Laravel and JavaScript (ReactJS preferrable).
 <li>🤔 I’m looking for help with building a new portfolio UI UX for behance. 
 <li>💬 Ask me about anything related to Laravel and JavaScript (ReactJS preferrable). 
-<li>😄 Pronouns: he/him. <li />
+<li>😄 Pronouns: he/him.
 <ul />
 
 ### Connect with me :

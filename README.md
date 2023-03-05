@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Adi Nugraha Putra!
 <ul>
-<li class="list-style-none">🔭 I’m currently at open to work as UI UX Designer / Web Developer.
+<li>🔭 I’m currently at open to work as UI UX Designer / Web Developer.
 <li>🌱 I’m currently learning ReactJS, ExpressJS, and NestJS.
 <li>👯 I’m looking to collaborate on any open source projects related to Laravel and JavaScript (ReactJS preferrable).
 <li>🤔 I’m looking for help with building a new portfolio UI UX for behance. 

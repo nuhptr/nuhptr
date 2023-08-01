@@ -25,8 +25,7 @@
 <img align="left" alt="expressJS" width="40px" src="https://user-images.githubusercontent.com/50306963/186475641-0c2cee02-fbf6-4b29-97cb-979890b1b982.png" />
 
 <img align="left" alt="Nextjs" width="26px" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png"/>
-<img align="left" alt="Laravel" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/ac74a567-0ca7-4a17-88e9-f8db83d138c6
-"/>
+<img align="left" alt="Laravel" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/ac74a567-0ca7-4a17-88e9-f8db83d138c6"/>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 

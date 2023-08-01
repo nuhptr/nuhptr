@@ -23,8 +23,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="nodejs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/5a12a3a6-0e10-4d54-a5f5-244ae0987ec4" />
-
-<img align="left" alt="Nextjs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/6b4654ad-397e-4a1d-b230-c8eb61e372cf"/>
+<img align="left" alt="Nuxtjs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/b6472cb7-ac94-49b8-9642-39763c1f9ab5" />
+<img align="left" alt="Nextjs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/d258c1c2-0ca4-49cb-9abc-42ffe7ecd0d4"/>
 <img align="left" alt="Laravel" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/ac74a567-0ca7-4a17-88e9-f8db83d138c6"/>
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />

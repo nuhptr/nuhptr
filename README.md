@@ -2,7 +2,7 @@
 <ul>
 <li>🔭 I’m currently open to working as UI UX Designer / Web Developer.
 <li>🌱 I’m currently learning Javascript Frontend / Backend.
-<li>👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (Reactjs/Vuejs/SvelteJs).
+<li>👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (Reactjs/Vuejs).
 <li>🤔 I’m looking for help with building a new portfolio UI UX for Behance. 
 <li>💬 Ask me about anything related to Laravel and JavaScript. 
 <li>😄 Pronouns: he/him.

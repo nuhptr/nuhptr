@@ -21,7 +21,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" />
 <img align="left" alt="nodejs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/5a12a3a6-0e10-4d54-a5f5-244ae0987ec4" />
 <img align="left" alt="Vuejs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/5f73e528-b084-42e0-b919-14e15f8c0d16" />
 <img align="left" alt="Nextjs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/d258c1c2-0ca4-49cb-9abc-42ffe7ecd0d4"/>

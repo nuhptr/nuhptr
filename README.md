@@ -3,7 +3,7 @@
 <li>🔭 I’m open to working as a Web Developer.
 <li>🌱 I’m currently learning Javascript Framework.
 <li>👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (Reactjs/Vuejs).
-<li>🤔 I’m seeking help building a new portfolio UI UX for Dribbble. 
+<li>🤔 I’m seeking for collaboration for UI UX project for Dribbble. 
 <li>💬 Ask me about anything related to Laravel and JavaScript. 
 <li>😄 Pronouns: he/him.
 <ul />

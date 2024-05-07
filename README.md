@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Adi Nugraha Putra!
-<ul>
+<ul style="{{ list-style-type: none; }}">
 <li>🔭 I’m open to working as a Web Developer & UI UX Designer.
 <li>🌱 Lifetime Learner.
 <li>👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular).

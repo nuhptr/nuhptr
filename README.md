@@ -1,8 +1,8 @@
 # Hi there 👋 , I'm Adi Nugraha Putra!
 
 <ul>
-<li>🔭 I’m open to working as a Web Developer & UI UX Designer.
 <li>🌱 Lifetime Learner.
+<li>🔭 I’m open to working as a Web Developer & UI UX Designer.
 <li>👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular).
 <li>🤔 I’m seeking collaboration for a UI UX project for Dribbble.
 <li>💬 Ask me about anything related to Laravel and JavaScript.
@@ -11,7 +11,7 @@
 
 ### Connect with me :
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<a href="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ" target="_blank"><img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>]
 [<img align="left" alt="Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -37,12 +37,12 @@
 
 ### Top Languages :
 
-<a href="https://github.com/nuhptr">
+<a href="https://github.com/nuhptr" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
 </a>
 
 <!-- ### Stats : 
-<a href="https://github.com/nuhptr">
+<a href="https://github.com/nuhptr" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhptr&show_icons=true&theme=light&line_height=27" />
 </a> -->
 

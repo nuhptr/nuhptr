@@ -23,7 +23,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Typescript" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" />
-<img align="left" alt="Express" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/757303eb-6e73-47ef-a595-9481434ffad8" />
+<img align="left" alt="Express" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/c10b191a-d2ba-443b-94c4-b3b439fde27d" />
 <img align="left" alt="Vuejs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/5f73e528-b084-42e0-b919-14e15f8c0d16" />
 <img align="left" alt="React" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/f60c8ec7-f4b9-4fa4-be58-bcdec986bbb9" />
 <img align="left" alt="Angular" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/5036c1e7-acee-4957-b058-351002fe0215" />

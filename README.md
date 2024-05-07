@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Adi Nugraha Putra!
 
-🔭 I’m open to working as a Web Developer & UI UX Designer.<br />
+🔭 I’m open to working as a Web Developer & UI UX Designer.<br /><br />
 🌱 Lifetime Learner.<br />
 👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular).<br />
 🤔 I’m seeking for collaboration for UI UX project for Dribbble.<br />

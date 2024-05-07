@@ -1,8 +1,8 @@
 # Hi there 👋 , I'm Adi Nugraha Putra!
 <ul>
 <li>🔭 I’m open to working as a Web Developer.
-<li>🌱 I’m currently learning Javascript Framework.
-<li>👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (Reactjs/Vuejs).
+<li>🌱 Lifetime Learner.
+<li>👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular).
 <li>🤔 I’m seeking for collaboration for UI UX project for Dribbble. 
 <li>💬 Ask me about anything related to Laravel and JavaScript. 
 <li>😄 Pronouns: he/him.

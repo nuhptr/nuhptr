@@ -53,7 +53,7 @@
 </a> -->
 
 
-[youtube]: https://dub.sh/develope-with-adi
-[instagram]: https://dub.sh/instagram-nuhptr
-[linkedin]: https://dub.sh/linkedin-nuhptr
-[dribbble]: https://dub.sh/dribbble-nuhptr
+[youtube]: https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ
+[instagram]: https://www.instagram.com/codethekaizen/
+[linkedin]: https://www.linkedin.com/in/adikuhaku/
+[dribbble]: https://dribbble.com/nuhptr

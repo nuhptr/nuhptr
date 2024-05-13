@@ -46,22 +46,12 @@
    <br />
 </div>
 
-<h3>Top Languages :</h3>
-
-<div>
-   <a href="https://github.com/nuhptr" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
-   </a>
-   <br />
-   <br />
-</div>
-
 <br />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2017%20mins-blue)
 
-📊 ***This Week I Spent My Time On**
+📊 ***This Week I Spent My Time On***
 
 ```text
 💬 Programming Languages: 
@@ -81,6 +71,18 @@ Windows                  1 hr 9 mins         █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+<br />
+
+<h3>Top Languages :</h3>
+
+<div>
+   <a href="https://github.com/nuhptr" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
+   </a>
+   <br />
+   <br />
+</div>
 
 <!-- ### Stats : 
 <a href="https://github.com/nuhptr" target="_blank">

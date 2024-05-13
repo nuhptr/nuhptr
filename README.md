@@ -1,9 +1,9 @@
 <div>
 <h1>Hi there 👋 , I'm Adi Nugraha Putra!</h1>
    
-<ul>
-  * <li>🌱 Lifetime Learner</li>
-  * <li>🔭 I’m open to working as a <strong>Web Developer & UI UX Designer</strong></li>
+<ul class="padding-left: 0">
+  <li>🌱 Lifetime Learner</li>
+   <li>🔭 I’m open to working as a <strong>Web Developer & UI UX Designer</strong></li>
    <li>👯 I’m looking to collaborate on any <strong>open-source projects</strong> related to Laravel and JavaScript (React / Vue / Angular)</li>
    <li>🤔 I’m seeking collaboration for a <strong>UI UX project for Dribbble</strong></li>
    <li>💬 Ask me about anything related to <strong>Laravel and JavaScript</strong></li>

@@ -3,6 +3,7 @@
 <div align="center">
 🌱 Lifetime <strong>Learner</strong> || 🔭 I’m open to working as a <strong>Web Developer & UI UX Designer</strong> || 👯 I’m looking to collaborate on any <strong>open-source projects</strong> related to Laravel and JavaScript (React / Vue / Angular) || 🤔 I’m seeking collaboration for a UI UX project for Dribbble || 💬 Ask me about anything related to Laravel and JavaScript || 😄 Pronouns: he/him 
 <br />
+   <br />
 </div>
 
 ### Connect with me :

@@ -9,7 +9,6 @@
    <li>💬 Ask me about anything related to <strong>Laravel and JavaScript</strong></li>
    <li>😄 Pronouns: <strong>he/him</strong></li>
 </ul> 
-<br />
 </div>
 
 <h3>Connect with me :</h3>

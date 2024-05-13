@@ -47,7 +47,9 @@
 <br />
 <br />
 
-<h3 align="center">Top Languages :</h3>
+<h3>Top Languages :</h3>
+
+<br />
 
 <a href="https://github.com/nuhptr" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>

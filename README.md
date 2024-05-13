@@ -59,10 +59,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
 </a>
 
-```md
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- ### Stats : 
 <a href="https://github.com/nuhptr" target="_blank">

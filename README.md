@@ -6,8 +6,9 @@
 &nbsp; 🤔 I’m seeking collaboration for a <strong>UI UX project for Dribbble</strong> &nbsp;||
 &nbsp; 💬 Ask me about anything related to <strong>Laravel and JavaScript</strong> &nbsp;||
 &nbsp; 😄 Pronouns: <strong>he/him</strong>
-<br />
 </div>
+
+<br />
 
 <h3>Connect with me :</h3>
 

@@ -25,6 +25,7 @@
      <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
    </a>
    <br />
+   <br />
 </div>
 
 
@@ -43,6 +44,7 @@
    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
    <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
    <br />
+   <br />
 </div>
 
 <h3>Top Languages :</h3>
@@ -51,6 +53,7 @@
    <a href="https://github.com/nuhptr" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
    </a>
+   <br />
    <br />
 </div>
 

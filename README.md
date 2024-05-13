@@ -45,8 +45,6 @@
    <br />
 </div>
 
-<br />
-
 <h3>Top Languages :</h3>
 
 <div>

@@ -26,3 +26,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           DEBUG_LOGGING: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_UPDATED_DATE: "False"
+          COMMIT_USERNAME: "nuhptr"

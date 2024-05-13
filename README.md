@@ -10,7 +10,7 @@
 </ul> 
 </div>
 
-<h3>Connect with me :</h3>
+<h4>Connect with me :</h4>
 
 <div>
    <a href="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ" target="_blank">
@@ -29,7 +29,7 @@
 
 <br />
 
-<h3>Languages and Tools :</h3>
+<h4>Languages and Tools :</h4>
 
 <div>
    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -47,7 +47,7 @@
 
 <br />
 
-<h3>Top Languages :</h3>
+<h4>Top Languages :</h4>
 
 <div>
    <a href="https://github.com/nuhptr" target="_blank">

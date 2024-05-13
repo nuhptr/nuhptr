@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2017%20mins-blue)
 
-📊 ***This Week I Spent My Time On***
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -68,11 +68,7 @@ VS Code                  31 hrs 32 mins      ███████████�
 Mac                      30 hrs 23 mins      ████████████████████████░   96.34 % 
 Windows                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
-
-
 <!--END_SECTION:waka-->
-
-<br />
 
 <h3>Top Languages :</h3>
 

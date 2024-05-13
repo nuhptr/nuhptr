@@ -10,8 +10,6 @@
 </ul> 
 </div>
 
-<br />
-
 <h3>Connect with me :</h3>
 
 <div>
@@ -27,11 +25,9 @@
    <a href="https://www.instagram.com/codethekaizen/" target="_blank">
      <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
    </a>
-   <br />
 </div>
 
-<br/>
-
+<br />
 
 <h3>Languages and Tools :</h3>
 
@@ -47,7 +43,6 @@
    <img align="left" alt="Laravel" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/ac74a567-0ca7-4a17-88e9-f8db83d138c6"/>
    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
    <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-   <br />
 </div>
 
 <br />

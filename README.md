@@ -52,10 +52,10 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### Stats : 
+<!-- ### Stats : 
 <a href="https://github.com/nuhptr" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhptr&show_icons=true&theme=light&line_height=27" />
-</a>
+</a> -->
 
 <!-- 
 ### Other Repository :

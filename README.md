@@ -11,8 +11,6 @@
 
 <h3>Connect with me :</h3>
 
-<br />
-
 <div>
    <a href="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ" target="_blank">
       <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
@@ -31,8 +29,6 @@
 <br />
 
 <h3>Languages and Tools :</h3>
-
-<br />
 
 <div>
    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -58,6 +54,8 @@
 <a href="https://github.com/nuhptr" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
 </a>
+
+<br />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2017%20mins-blue)

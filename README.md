@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 , I'm Adi Nugraha Putra!</h1>
 
-<ul align="center" style="list-type: none;">
+<ul align="center" style="list-style-type: none;">
    <li>🌱 Lifetime Learner.
    <li>🔭 I’m open to working as a Web Developer & UI UX Designer.
    <li>👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular).

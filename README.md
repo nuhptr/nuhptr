@@ -10,7 +10,7 @@
 </ul> 
 </div>
 
-<h4>Connect with me :</h4>
+<h3>Connect with me :</h3>
 
 <div>
    <a href="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ" target="_blank">
@@ -29,7 +29,7 @@
 
 <br />
 
-<h4>Languages and Tools :</h4>
+<h3>Languages and Tools :</h3>
 
 <div>
    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -47,7 +47,7 @@
 
 <br />
 
-<h4>Top Languages :</h4>
+<h3>Top Languages :</h3>
 
 <div>
    <a href="https://github.com/nuhptr" target="_blank">
@@ -60,7 +60,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2017%20mins-blue)
 
-📊 **This Week I Spent My Time On**
+<h3>📊 This Week I Spent My Time On</h3>
 
 ```text
 💬 Programming Languages: 

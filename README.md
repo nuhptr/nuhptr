@@ -1,3 +1,5 @@
+![Banner Github](https://github.com/nuhptr/nuhptr/assets/50306963/80e63f36-f80a-45e6-8b2a-d1bd83664748)
+
 <div>
 <h1>Hi there 👋 , I'm Adi Nugraha Putra!</h1>
    

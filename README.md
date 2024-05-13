@@ -10,6 +10,8 @@
 </ul> 
 </div>
 
+<br />
+
 <h3>Connect with me :</h3>
 
 <div>
@@ -27,6 +29,8 @@
    </a>
    <br />
 </div>
+
+<br/>
 
 
 <h3>Languages and Tools :</h3>

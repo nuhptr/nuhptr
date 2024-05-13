@@ -1,11 +1,11 @@
 <div>
 <h1>Hi there 👋 , I'm Adi Nugraha Putra!</h1>
    
-🌱 Lifetime Learner <br />
-🔭 I’m open to working as a Web Developer & UI UX Designer </br>
-👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular) </br>
-🤔 I’m seeking collaboration for a UI UX project for Dribbble </br>
-💬 Ask me about anything related to Laravel and JavaScript </br>
+🌱 Lifetime Learner <br /></br>
+🔭 I’m open to working as a Web Developer & UI UX Designer </br></br>
+👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular) </br></br>
+🤔 I’m seeking collaboration for a UI UX project for Dribbble </br></br>
+💬 Ask me about anything related to Laravel and JavaScript </br></br>
 😄 Pronouns: he/him 
 </ul> 
 </div>

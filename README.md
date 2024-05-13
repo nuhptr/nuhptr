@@ -6,9 +6,8 @@
 &nbsp; 🤔 I’m seeking collaboration for a <strong>UI UX project for Dribbble</strong> &nbsp;||
 &nbsp; 💬 Ask me about anything related to <strong>Laravel and JavaScript</strong> &nbsp;||
 &nbsp; 😄 Pronouns: <strong>he/him</strong>
-</div>
-
 <br />
+</div>
 
 <h3>Connect with me :</h3>
 
@@ -25,9 +24,9 @@
    <a href="https://www.instagram.com/codethekaizen/" target="_blank">
      <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
    </a>
+   <br />
 </div>
 
-<br />
 
 <h3>Languages and Tools :</h3>
 
@@ -43,17 +42,20 @@
    <img align="left" alt="Laravel" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/ac74a567-0ca7-4a17-88e9-f8db83d138c6"/>
    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
    <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+   <br />
 </div>
 
 <br />
 
 <h3>Top Languages :</h3>
 
-<a href="https://github.com/nuhptr" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
-</a>
+<div>
+   <a href="https://github.com/nuhptr" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
+   </a>
+   <br />
+</div>
 
-<br />
 <br />
 
 <!--START_SECTION:waka-->

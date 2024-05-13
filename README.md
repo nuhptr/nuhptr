@@ -1,13 +1,6 @@
 <h1 align="center">Hi there 👋 , I'm Adi Nugraha Putra!</h1>
 
-<ul align="center" style="list-style-type: none;">
-   <li>🌱 Lifetime Learner.
-   <li>🔭 I’m open to working as a Web Developer & UI UX Designer.
-   <li>👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular).
-   <li>🤔 I’m seeking collaboration for a UI UX project for Dribbble.
-   <li>💬 Ask me about anything related to Laravel and JavaScript.
-   <li>😄 Pronouns: he/him.<br />
-</ul>
+🌱 Lifetime Learner. | 🔭 I’m open to working as a Web Developer & UI UX Designer. | 👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular). | 🤔 I’m seeking collaboration for a UI UX project for Dribbble. | 💬 Ask me about anything related to Laravel and JavaScript. | 😄 Pronouns: he/him.<br />
 
 ### Connect with me :
 

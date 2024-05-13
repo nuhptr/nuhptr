@@ -27,7 +27,6 @@
 </div>
 
 <br />
-<br />
 
 <h3>Languages and Tools :</h3>
 
@@ -46,7 +45,6 @@
 </div>
 
 <br />
-<br />
 
 <h3>Top Languages :</h3>
 
@@ -54,6 +52,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
 </a>
 
+<br />
 <br />
 
 <!--START_SECTION:waka-->

@@ -3,11 +3,11 @@
 <div align="center">
 🌱 Lifetime <strong>Learner</strong> || 🔭 I’m open to working as a <strong>Web Developer & UI UX Designer</strong> || 👯 I’m looking to collaborate on any <strong>open-source projects</strong> related to Laravel and JavaScript (React / Vue / Angular) || 🤔 I’m seeking collaboration for a UI UX project for Dribbble || 💬 Ask me about anything related to Laravel and JavaScript || 😄 Pronouns: he/him 
 <br />
-   <br />
 </div>
 
-### Connect with me :
+<h3 align="center">Connect with me :</h3>
 
+<div align="center">
 <a href="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ" target="_blank">
    <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
@@ -20,6 +20,7 @@
 <a href="https://www.instagram.com/codethekaizen/" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</div>
 
 <br />
 

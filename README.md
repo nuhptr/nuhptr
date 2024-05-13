@@ -48,6 +48,18 @@
 
 <br />
 
+<h3>Top Languages :</h3>
+
+<div>
+   <a href="https://github.com/nuhptr" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
+   </a>
+   <br />
+   <br />
+</div>
+
+<br />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2017%20mins-blue)
 
@@ -69,16 +81,6 @@ Mac                      30 hrs 23 mins      ███████████�
 Windows                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 <!--END_SECTION:waka-->
-
-<h3>Top Languages :</h3>
-
-<div>
-   <a href="https://github.com/nuhptr" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
-   </a>
-   <br />
-   <br />
-</div>
 
 <!-- ### Stats : 
 <a href="https://github.com/nuhptr" target="_blank">

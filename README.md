@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
-```text
+```md
 💬 Programming Languages: 
 JavaScript               14 hrs 5 mins       ███████████░░░░░░░░░░░░░░   44.68 % 
 HTML                     7 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.21 % 

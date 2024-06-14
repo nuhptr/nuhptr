@@ -1,4 +1,4 @@
-![Banner Github](https://github.com/nuhptr/nuhptr/assets/50306963/2642afb2-21f9-4944-8eb0-7d6df6afaf91)
+![banner-github](https://github.com/nuhptr/nuhptr/assets/50306963/d46e40c2-63f8-4feb-b32a-109fe9488fc6)
 
 <div>
 <h1>Hi there 👋 , Code The Kaizen Here!</h1>

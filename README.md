@@ -1,7 +1,7 @@
 ![Banner Github](https://github.com/nuhptr/nuhptr/assets/50306963/86c25aec-78d6-4d05-865c-88b619ee9cb4)
 
 <div>
-<h1>Hi there 👋 , Code The Kaizen Here!</h1>
+<h1>Hi there 👋 , An Mastery Here!</h1>
    
 - 🌱 Lifetime Learner
 - 🔭 I’m open to working as a Web Developer & UI UX Designer

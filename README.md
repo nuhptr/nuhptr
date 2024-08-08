@@ -4,10 +4,11 @@
 <h1>Hi there 👋 , An Mastery Here!</h1>
    
 - 🌱 Lifetime Learner
-- 🔭 I’m open to working as a Web Developer & UI UX Designer
-- 👯 I’m looking to collaborate on any open-source projects related to Laravel and JavaScript (React / Vue / Angular)
-- 🤔 I’m seeking collaboration for a UI UX project for Dribbble
-- 💬 Ask me about anything related to Laravel and JavaScript 
+- 🔭 Product designer & coding enthusiast
+- 😎 Speaking English & Indonesia
+- 👯 Looking for pair programming for Learn / Building Project on Youtube
+- 🤔 Looking for collaboration on UI8 / Product Design case
+- 💬 Ask me about anything related to Web Development
 - 😄 Pronouns: he/him 
 </ul> 
 </div>

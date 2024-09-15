@@ -1,4 +1,4 @@
-![Banner Github](https://github.com/nuhptr/nuhptr/assets/50306963/86c25aec-78d6-4d05-865c-88b619ee9cb4)
+![Banner Github](https://github.com/user-attachments/assets/d527fc7d-9824-48e7-a4ad-f7a83e6a640e)
 
 <div>
 <h1>Hi there 👋 , An Mastery Here!</h1>

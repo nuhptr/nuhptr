@@ -1,4 +1,4 @@
-![Banner Github](https://github.com/user-attachments/assets/d527fc7d-9824-48e7-a4ad-f7a83e6a640e)
+![Banner Github](https://github.com/user-attachments/assets/05bcd057-e12f-4f2c-bd74-972fe0177f65)
 
 <div>
 <h1>Hi there 👋 , An Mastery Here!</h1>

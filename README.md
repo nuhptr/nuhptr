@@ -1,7 +1,7 @@
 ![Banner Github](https://github.com/user-attachments/assets/05bcd057-e12f-4f2c-bd74-972fe0177f65)
 
 <div>
-<h1>Hi there 👋 , An Mastery Here!</h1>
+<h1>Hi there 👋 , Adi Nugraha Putra Here!</h1>
    
 - 🌱 Lifetime Learner
 - 🔭 Product designer & coding enthusiast

@@ -6,8 +6,6 @@
 - 🌱 Lifetime Learner
 - 🔭 Product designer & coding enthusiast
 - 😎 Speaking English & Indonesia
-- 👯 Looking for pair programming for Learn / Building Project on Youtube
-- 🤔 Looking for collaboration on UI8 / Product Design case
 - 💬 Ask me about anything related to Web Development
 - 😄 Pronouns: he/him 
 </ul> 

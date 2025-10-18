@@ -36,11 +36,9 @@
    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
    <img align="left" alt="Typescript" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" />
-   <img align="left" alt="Vuejs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/5f73e528-b084-42e0-b919-14e15f8c0d16" />
    <img align="left" alt="React" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/f60c8ec7-f4b9-4fa4-be58-bcdec986bbb9" />
    <img align="left" alt="Angular" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/5036c1e7-acee-4957-b058-351002fe0215" />
    <img align="left" alt="Nextjs" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/d258c1c2-0ca4-49cb-9abc-42ffe7ecd0d4"/>
-   <img align="left" alt="Laravel" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/ac74a567-0ca7-4a17-88e9-f8db83d138c6"/>
    <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
    <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </div>

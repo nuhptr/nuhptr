@@ -49,31 +49,3 @@
 </div>
 
 <br />
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
-
-<!-- ### Stats : 
-<a href="https://github.com/nuhptr" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuhptr&show_icons=true&theme=light&line_height=27" />
-</a> -->
-
-<!-- 
-### Other Repository :
-<a href="https://github.com/nuhptr/.....">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nuhptr&repo=...&theme=dark" />
-</a> -->

@@ -51,5 +51,5 @@ I believe great products come from the combination of thoughtful design, continu
 </p>
 
 <p align="center">
-  <sub>Designed with curiosity & built with passion.</sub>
+  <sub>© 2026 Adi Nugraha Putra · Built somewhere between design & development.</sub>
 </p>

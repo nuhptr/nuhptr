@@ -50,7 +50,7 @@
 
 ### 🤝 Let's Connect
 
-* 💼 **LinkedIn:** [Connect with me](https://linkedin.com)
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/adikuhaku/)
 * 🌐 **Portfolio/Resources:** Check out my latest design guides and templates!
 * 📧 **Reach out:** Feel free to drop a message for collaborations or project inquiries.
 

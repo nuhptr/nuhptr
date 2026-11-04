@@ -44,15 +44,9 @@
 
 <br />
 
-<h3>Top Languages :</h3>
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
-<div>
-   <a href="https://github.com/nuhptr" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuhptr&layout=compact"/>
-   </a>
-   <br />
-   <br />
-</div>
+###
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 

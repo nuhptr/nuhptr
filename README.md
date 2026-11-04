@@ -18,7 +18,7 @@
 ### 🚀 About Me
 
 * 🌱 I’m currently building advanced **web architectures, design systems, and modern frontend interfaces**.
-* 💼 Passionate about bridging the gap between clean code (TypeScript, React, Angular, Laravel) and intuitive UI/UX design.
+* 💼 Passionate about bridging the gap between clean code (TypeScript, React, Angular) and intuitive UI/UX design.
 * ☕ Fueled by curiosity, great coffee, and continuous learning.
 * 🎯 Always open to collaborating on innovative design contracts and development initiatives.
 

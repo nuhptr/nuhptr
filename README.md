@@ -1,4 +1,4 @@
-![Banner Github](https://github.com/user-attachments/assets/05bcd057-e12f-4f2c-bd74-972fe0177f65)
+![Banner Github](https://github.com/user-attachments/assets/c158d0e2-5d3d-4ce0-b3c6-ae1a3244ba23)
 
 <div>
 <h1>Hi there 👋 , Adi Nugraha Putra Here!</h1>

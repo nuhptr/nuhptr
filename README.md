@@ -11,7 +11,7 @@
 </ul> 
 </div>
 
-Let's Connect
+<h3>Let's Connect :</h3>
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ">

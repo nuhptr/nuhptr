@@ -33,7 +33,7 @@ I enjoy turning ideas into meaningful digital experiences through design and cod
 ### Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,angular,nextjs,tailwind,mysql,mongodb,git,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,angular,nextjs,tailwind,mysql,mongodb,git,figma" alt="Tech Stack" width="150"/>
 </p>
 
 ---

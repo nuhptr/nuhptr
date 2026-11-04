@@ -1,17 +1,20 @@
 ![Banner Github](https://github.com/user-attachments/assets/c158d0e2-5d3d-4ce0-b3c6-ae1a3244ba23)
 
-<div>
-<h1>Hi there 👋 , Adi Nugraha Putra Here!</h1>
-   
-- 🌱 Lifetime Learner
-- 🔭 Product designer & coding enthusiast
-- 😎 Speaking English & Indonesia
-- 💬 Ask me about anything related to Web Development
-- 😄 Pronouns: he/him 
-</ul> 
-</div>
+# Hey, I'm Adi Nugraha Putra 👋
 
-<h3>Let's Connect :</h3>
+**Product Designer · Frontend Developer · Lifetime Learner**
+
+I enjoy turning ideas into meaningful digital experiences through design and code. Currently exploring the intersection of product design, frontend development, and creative technology.
+
+- 🌱 Always learning, always building.
+- 🎨 Product designer with a passion for crafting digital experiences.
+- 💻 Exploring modern web technologies.
+- 🌏 Speaking English & Bahasa Indonesia.
+- 💬 Feel free to talk about design, technology, or web development.
+
+---
+
+### Let's Connect
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ">
@@ -25,20 +28,28 @@
   </a>
 </p>
 
-<h3>Languages and Tools :</h3>
+---
+
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,angular,nextjs,tailwind,mysql,mongodb,git,figma" alt="Tech Stack" />
 </p>
 
-<div>
-   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-   <img align="left" alt="Typescript" width="26px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" />
-   <img align="left" alt="React" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/f60c8ec7-f4b9-4fa4-be58-bcdec986bbb9" />
-   <img align="left" alt="Angular" width="26px" src="https://github.com/nuhptr/nuhptr/assets/50306963/5036c1e7-acee-4957-b058-351002fe0215" />
-   <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</div>
+---
 
-<br />
+### A Little More About Me
+
+> "Stay curious. Keep creating. Never stop learning."
+
+I believe great products come from the combination of thoughtful design, continuous experimentation, and solid engineering.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nuhptr&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <sub>Designed with curiosity & built with passion.</sub>
+</p>

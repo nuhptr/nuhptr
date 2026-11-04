@@ -11,22 +11,19 @@
 </ul> 
 </div>
 
-<h3>Connect with me :</h3>
+Let's Connect
 
-<div>
-   <a href="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ" target="_blank">
-      <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-   </a>
-   <a href="https://dribbble.com/anmastery" target="_blank">
-     <img align="left" alt="Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-   </a>
-   <a href="https://www.linkedin.com/in/adikuhaku/" target="_blank">
-     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-   </a>
-   <a href="https://www.instagram.com/nuhptr_/" target="_blank">
-     <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-   </a>
-</div>
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCyGpJMoH4Hky6legCXq7hdQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.linkedin.com/in/adikuhaku/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/nuhptr_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 <br />
 

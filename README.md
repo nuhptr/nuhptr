@@ -1,5 +1,11 @@
 ![Banner Github](https://github.com/user-attachments/assets/c158d0e2-5d3d-4ce0-b3c6-ae1a3244ba23)
 
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
 <div>
 <h1>Hi there 👋 , Adi Nugraha Putra Here!</h1>
    
@@ -43,12 +49,6 @@
 </div>
 
 <br />
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 

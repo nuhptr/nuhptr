@@ -44,7 +44,7 @@
 
 <br />
 
-<h3>Top Languages :</h3>
+<!-- <h3>Top Languages :</h3>
 
 <div>
    <a href="https://github.com/nuhptr" target="_blank">
@@ -52,7 +52,7 @@
    </a>
    <br />
    <br />
-</div>
+</div> -->
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
